@@ -8,7 +8,6 @@ This project aims to perform gender and speaker classification from audio files 
 
 - `solution.ipynb`: The main Jupyter Notebook containing all the code and analysis for the project.
 - `data/`: Directory containing the audio data used in the project (not included in the repository; instructions for downloading are provided).
-- `results/`: Directory containing results such as plots and models.
 - `README.md`: Project documentation.
 
 ## Part 1: Gender Classification
