@@ -26,11 +26,11 @@ This project aims to perform gender and speaker classification from audio files 
 4. **Model Training**:
    - Split the dataset into training and testing sets.
    - Implemented and evaluated four classifiers:
-     - Naive Bayes (Baseline)
-     - Support Vector Machine (SVM)
-     - Multi-Layer Perceptron (Neural Network)
+     - Gradient Boosting algorithm 
+     - Neural Network
      - Convolutional Neural Network (CNN, Deep Learning Model)
-   - Measured and reported the accuracy of each model.
+     - Hugging Face model
+   - Measured and reported the accuracy, precision and recall of each model and compared the respective outcomes.
 
 ## Part 2: Speaker Classification
 
@@ -39,11 +39,15 @@ This project aims to perform gender and speaker classification from audio files 
    - Processed audio files in 2-second chunks to increase the number of samples.
 
 2. **Quantitative Analysis**:
-   - Implemented prediction models using the extracted features.
-   - Evaluated the models using precision, recall, and accuracy metrics.
+   - Implemented prediction models using the extracted features such as:
+       - Gaussian Mixture Model
+       - Neural Network
+   - Evaluated the models using accuracy metrics.
 
 3. **Qualitative Analysis**:
-   - Applied dimensionality reduction and clustering algorithms.
+   - Applied dimensionality reduction and clustering algorithms:
+        - Performed PCA on the features provided
+        - Used K-means clustering
    - Visualized the clustering results to analyze the performance qualitatively.
 
 ## Results and Discussion
