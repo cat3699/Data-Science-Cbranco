@@ -61,4 +61,4 @@ This project aims to perform gender and speaker classification from audio files 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/cat3699/Data-Science-Cbranco.git
-   cd Data-Science-Cbranco
+   cd Gender and Speaker Classification from Audio Files
