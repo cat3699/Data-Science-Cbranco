@@ -519,7 +519,7 @@ else:
 
 The counts of outliers vary notably between the z-score and IQR methods for each MFCC, indicating differing sensitivity levels to outliers. Nevertheless, certain coefficients consistently exhibit a high number of outliers across both methods. This suggests that these coefficients may have a lower impact when training a model.
 
-## Task 1: prefered classifier for classifyng gender based on audio files
+## Task 1: Prefered classifier for classifyng gender based on audio files
 
 
 
