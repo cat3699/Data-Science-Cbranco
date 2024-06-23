@@ -505,12 +505,12 @@ else:
 
 ## Task 2: PCA 
 
-![Histogram of number of components obtained with PCA](images\pca_results.PNG)
+![Histogram of number of components obtained with PCA](images/pca_results.PNG)
 
 
 ## Task 2: K-means clustering
 
-![K-means clustering with the first two PCA features](images\kmeans.PNG)
+![K-means clustering with the first two PCA features](images/kmeans.PNG)
 
 
 # Conclusions
